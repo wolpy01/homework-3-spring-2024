@@ -49,22 +49,22 @@
 ![Кейсы компаний](./img/company_cases.png)
 
 - В данном разделе присуствует три ссылки на различные кейсы (на момент написания):
-  - https://ads.vk.com/cases/uvelichivaem-kolichestvo-podpischikov-kejs-hoff
-  - https://ads.vk.com/cases/prodvigaem-sajt-i-lid-formu-kejs-a101
-  - https://ads.vk.com/cases/uvelichivaem-okhvat-kejs-gazprombank
+  - При нажатии на первую картинку происходит редирект на https://ads.vk.com/cases/uvelichivaem-kolichestvo-podpischikov-kejs-hoff
+  - При нажатии на вторую картинку происходит редирект на https://ads.vk.com/cases/prodvigaem-sajt-i-lid-formu-kejs-a101
+  - При нажатии на тертью картинку происходит редирект на https://ads.vk.com/cases/uvelichivaem-okhvat-kejs-gazprombank
 - При нажатии на кнопку "Смотреть всё" происхоит редирект на страницу https://ads.vk.com/cases.
 
 ### Обучающие вебинары
 
 ![Обучающие вебинары](./img/learning_webinars.png)
 
-- При нажатии на любую часть слайда происходит редирект на страницу https://ads.vk.com/events
+- При нажатии на кнопку "Подробнее" происходит редирект на страницу https://ads.vk.com/events
 
 ### Новости
 
 ![Страница новостей](./img/news_page.png)
 
-- При нажатии на любую часть слайда происходит редирект на страницу https://ads.vk.com/news/portret-auditorii-sayta-vk-reklama.
+- При нажатии на кнопку "Подробнее" происходит редирект на страницу https://ads.vk.com/news/portret-auditorii-sayta-vk-reklama.
 
 ### Вспомогательные ссылки
 
